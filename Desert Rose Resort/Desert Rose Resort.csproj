@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF73187F-FDF2-4492-9F1E-A556F6BD7D75}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Desert_Rose_Resort</RootNamespace>
+    <AssemblyName>Desert Rose Resort</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cancel_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cancel_reservation.Designer.cs">
+      <DependentUpon>frm_cancel_reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_choose.Designer.cs">
+      <DependentUpon>frm_choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dismissal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dismissal.Designer.cs">
+      <DependentUpon>frm_dismissal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_guardian_manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_guardian_manager.Designer.cs">
+      <DependentUpon>frm_guardian_manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_image.Designer.cs">
+      <DependentUpon>frm_image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_job.Designer.cs">
+      <DependentUpon>frm_job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_overview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_overview.Designer.cs">
+      <DependentUpon>frm_overview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_query.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_query.Designer.cs">
+      <DependentUpon>frm_query.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_reception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_reception.Designer.cs">
+      <DependentUpon>frm_reception.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_reservation.Designer.cs">
+      <DependentUpon>frm_reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_reservation1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_reservation1.Designer.cs">
+      <DependentUpon>frm_reservation1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_resturant_manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_resturant_manager.Designer.cs">
+      <DependentUpon>frm_resturant_manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_rooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_rooms.Designer.cs">
+      <DependentUpon>frm_rooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_room_service_manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_room_service_manager.Designer.cs">
+      <DependentUpon>frm_room_service_manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_staff.Designer.cs">
+      <DependentUpon>frm_staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_staff_acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_staff_acc.Designer.cs">
+      <DependentUpon>frm_staff_acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tour.Designer.cs">
+      <DependentUpon>frm_tour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tourist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tourist.Designer.cs">
+      <DependentUpon>frm_tourist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cancel_reservation.resx">
+      <DependentUpon>frm_cancel_reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_choose.resx">
+      <DependentUpon>frm_choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dismissal.resx">
+      <DependentUpon>frm_dismissal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_guardian_manager.resx">
+      <DependentUpon>frm_guardian_manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_image.resx">
+      <DependentUpon>frm_image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_job.resx">
+      <DependentUpon>frm_job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_overview.resx">
+      <DependentUpon>frm_overview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_query.resx">
+      <DependentUpon>frm_query.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_reception.resx">
+      <DependentUpon>frm_reception.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_reservation.resx">
+      <DependentUpon>frm_reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_reservation1.resx">
+      <DependentUpon>frm_reservation1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_resturant_manager.resx">
+      <DependentUpon>frm_resturant_manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_rooms.resx">
+      <DependentUpon>frm_rooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_room_service_manager.resx">
+      <DependentUpon>frm_room_service_manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_staff.resx">
+      <DependentUpon>frm_staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_staff_acc.resx">
+      <DependentUpon>frm_staff_acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tour.resx">
+      <DependentUpon>frm_tour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tourist.resx">
+      <DependentUpon>frm_tourist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946069511.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945833402.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945806805.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VillaHotel-Staff-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-57-34-397.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-58-18-087.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-01-00-06-348.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-01-745.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AAEAAQAAAAAAAAk7AAAAJDdmMThlZDM5LWRkODUtNGM4OC1hMzIyLTU0Yjg5MzkxYTdmZA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-desk-laptop-working.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-01-00-01-104.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VillaHotel-Staff-011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945970615.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945812198.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946056757.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-39-854.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945948750.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946040352.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946093131.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-54-12-097.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-54-07-616.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-01-00-11-799.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-55-446.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-51-949.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945853490.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-54-38-560.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_15129458121981.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945746701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945801167.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945844791.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945908669.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945926369.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512945931015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946007975.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946035808.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946047533.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946113752.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946141703.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946145780.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB_IMG_1512946158878.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-53-17-209.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-53-21-195.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-53-33-843.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-53-38-341.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-53-44-556.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-54-00-575.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-33-322.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2017-12-11-00-59-43-986.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

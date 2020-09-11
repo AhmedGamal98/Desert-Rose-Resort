@@ -1,0 +1,56 @@
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.exe.config
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.exe
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.pdb
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.csprojResolveAssemblyReference.cache
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.Form1.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.Properties.Resources.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.csproj.GenerateResource.Cache
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.exe
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.pdb
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_choose.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_login.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reception.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reservation.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_tourist.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_staff.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_staff_acc.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_job.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_image.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_overview.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reservation1.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_query.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_rooms.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_cancel_reservation.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_dismissal.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_guardian_manager.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_resturant_manager.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_room_service_manager.resources
+D:\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_tour.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.exe.config
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.exe
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.pdb
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.exe
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\bin\Debug\Desert Rose Resort.pdb
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.csprojResolveAssemblyReference.cache
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.Form1.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_cancel_reservation.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_choose.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_dismissal.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_guardian_manager.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_image.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_job.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_login.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_overview.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_query.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reception.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reservation.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_reservation1.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_resturant_manager.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_rooms.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_room_service_manager.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_staff.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_staff_acc.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_tour.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.frm_tourist.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert_Rose_Resort.Properties.Resources.resources
+D:\My Zone\Projects\My Projects\Desert Rose Resort\Desert Rose Resort\obj\Debug\Desert Rose Resort.csproj.GenerateResource.Cache
